@@ -7,7 +7,7 @@ This project implements a **PID (Proportional-Integral) controller** on an Ardui
 The purpose is to demonstrate the principle of a closed‑loop control system without needing an actual physical sensor. It's ideal for learning, experimenting with PID tuning, or as a foundation for real automation projects.
 
 ## Author
-- **Name:** Andrei Dykunets  
+- **Name:** Andrei Dikunets  
 - **Aliases:** Andreas Agassias, christty  
 - **GitHub:** https://github.com/Agassias 
 - **Objective:** Aspiring to work at Apple as an instrumentation and automation specialist.
